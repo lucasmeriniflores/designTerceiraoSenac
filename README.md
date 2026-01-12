@@ -1,6 +1,6 @@
 # Design da Camisa do Terceirão
 
-![Imagem do Projeto](./image.png)
+![Imagem do Projeto](./image.jpg)
 
 Aplicativo completo com integração com banco de dados **Supabase**, cuja proposta é auxiliar os alunos nos estudos, permitindo organizar tarefas e prazos, acompanhar o desempenho acadêmico e melhorar a comunicação entre alunos e professores.
 
