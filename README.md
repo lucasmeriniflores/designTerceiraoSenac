@@ -2,7 +2,7 @@
 
 ![Imagem do Projeto](./image.jpg)
 
-Aplicativo completo com integração com banco de dados **Supabase**, cuja proposta é auxiliar os alunos nos estudos, permitindo organizar tarefas e prazos, acompanhar o desempenho acadêmico e melhorar a comunicação entre alunos e professores.
+Design desenvolvido utilizando o **Adobe Photoshop**, com apoio de elementos visuais de referência coletados na internet. O projeto foi realizado ao longo de **1 mês**, em conjunto com opiniões gerais da turma. As cores foram definidas de acordo com a identidade da turma, e o material final foi enviado à gráfica responsável pela **impressão** e **confecção dos uniformes.**
 
 ---
 
